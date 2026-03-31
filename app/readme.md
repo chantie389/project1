@@ -9,7 +9,7 @@ It was inspired by a close friend who struggles to stay in touch regularly.
 DESIGN CONSIDERATIONS
 
 The app was designed to be simple, user-friendly, and engaging. it uses a time-based structure
-(morning,afternoon,evening)to match real-life routines and ensure ease of use. the interface
+(morning,afternoon,evening) to match real-life routines and ensure ease of use. the interface
 is clear and responsive to provide a smooth user experience.
 
 USE OF GitHub 
