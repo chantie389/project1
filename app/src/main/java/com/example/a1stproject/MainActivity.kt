@@ -1,5 +1,6 @@
 package com.example.a1stproject
-
+// this application was developed following a YouTube tutorial on Andriod app development.
+//the code was adapted and modified for learning purposes.
 import android.os.Bundle
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
