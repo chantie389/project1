@@ -25,7 +25,7 @@ GitHub Actions was used to automate tasks such as building and testing the appli
 improving development efficiency (OpenAI,2026).
 
 
-a link to my YouTube video :
+a link to my YouTube video :https://youtube.com/shorts/wFDySPLnBX8?feature=share
 
 REFERENCE LIST 
 
