@@ -1,5 +1,7 @@
 APP REPORT
 
+
+
 PURPOSE OF THE APPLICATION
 
 this application was developed to help users maintain social connections during busy days. 
