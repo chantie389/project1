@@ -93,7 +93,7 @@ fun validateInput(input: String): Boolean {
 fun getProject(time: String): String {
     return when (time.lowercase()) {
         "morning" -> "send a 'Good Morning' text to a family member."
-        "afternoon snack time"->"send a quick 'thinking of you' message"
+        "afternoon "->"share a funny meme or interesting link with a friend"
         "dinner" -> "call a friend or relative for a 5-minutes catch-up."
         else -> "" // Handled by validation
     }
